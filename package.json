@@ -1,5 +1,5 @@
 {
-  "name": "use-status",
+  "name": "react-use-status",
   "version": "1.0.0",
   "description": "Pointless alternative to useState",
   "type": "module",

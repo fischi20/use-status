@@ -11,9 +11,9 @@ npm install use-status
 
 ### example usage
 ```tsx
-import {useStatus} from 'use-status'
+import {useStatus} from 'react-use-status'
 //or
-import useStatus from 'use-status'
+import useStatus from 'react-use-status'
 
 const count = useStatus(0)
 return <>
