@@ -1,0 +1,39 @@
+{
+  "name": "use-status",
+  "version": "1.0.0",
+  "description": "Pointless alternative to useState",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "typings": "./dist/index.d.ts",
+  "sideEffects": "false",
+  "repository": {},
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=14.17.0"
+  },
+  "scripts": {
+    "build": "unbuild"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.2.61",
+    "typescript": "^5.3.3",
+    "unbuild": "^2.0.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
