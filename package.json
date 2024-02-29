@@ -28,9 +28,9 @@
   "scripts": {
     "build": "unbuild"
   },
-  "keywords": [],
+  "keywords": ["react", "state", "hooks", "useState", "pointless"],
   "author": "fischi20",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/react": "^18.2.61",
     "typescript": "^5.3.3",
