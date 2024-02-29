@@ -29,7 +29,7 @@
     "build": "unbuild"
   },
   "keywords": [],
-  "author": "",
+  "author": "fischi20",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^18.2.61",
